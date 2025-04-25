@@ -96,7 +96,7 @@ uvicorn fast_api_app:app --reload --host 0.0.0.0 --port 8080
 
 Пример:
 ```
-GET http://localhost:8080/predict?name=клей&top_n=3
+curl "http://localhost:8080/predict?name=клей&top_n=3"
 ```
 
 ---
