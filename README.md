@@ -33,7 +33,7 @@ project/
    ```
 2. Создать и активировать виртуальное окружение:
    ```bash
-   python3 -m venv venv
+   python -m venv venv
    source venv/bin/activate   # Linux/macOS
    venv\\Scripts\\activate    # Windows
    ```
