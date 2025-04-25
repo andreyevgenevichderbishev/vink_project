@@ -82,7 +82,7 @@ python script.py fit path , column
 
 Запустить интерфейс в браузере:
 ```bash
-streamlit run app_streamlit.py
+streamlit run streamlit_app.py
 ```
 Интерактивно выполняет поиск используя обученную модель.
 
