@@ -71,7 +71,7 @@ print(results)  # [("товар2", 0.87), ...]
 Предсказание:
 
 ```bash
-python script.py товар 4
+python script.py NAME TOP_N
 ```
 - товар и количество ближайших товаров, по умолчанию 5 
   
